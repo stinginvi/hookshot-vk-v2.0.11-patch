@@ -1,0 +1,8 @@
+*.dll
+*.exe
+*.bin
+*.nup
+*.keys
+romfs/
+exefs/
+saves/
